@@ -1,0 +1,7 @@
+# General
+loguru==0.6.0
+
+# Telegram sender
+python-telegram-bot==13.14
+
+
